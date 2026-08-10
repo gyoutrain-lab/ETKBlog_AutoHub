@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gyoutrain-lab.github.io/ETKFreelancer/</loc>
+    <loc>https://gyoutrain-lab.github.io/ETKBlog_AutoHub/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://gyoutrain-lab.github.io/ETKFreelancer/etk_ai_command_matrix.html</loc>
+    <loc>https://gyoutrain-lab.github.io/ETKBlog_AutoHub/etk_ai_command_matrix.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
