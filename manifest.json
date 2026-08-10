@@ -1,0 +1,19 @@
+{
+  "site_name": "ETK Command Matrix",
+  "version": "1.0",
+  "baseUrl": "https://gyoutrain-lab.github.io/ETKFreelancer/",
+  "articles": [
+    {
+      "id": "file-01",
+      "title": "Mengoptimalkan Internal Link untuk Kinerja Googlebot",
+      "category": "Technical SEO",
+      "url": "file-01.html"
+    },
+    {
+      "id": "file-02",
+      "title": "Mengatasi Orphan Pages dalam Struktur Website",
+      "category": "Technical SEO",
+      "url": "file-02.html"
+    }
+  ]
+}
